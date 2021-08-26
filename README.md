@@ -1,3 +1,4 @@
+[![GitHub issues](https://img.shields.io/github/issues/amine0110/preporcess-volume-medical-imaging)](https://github.com/amine0110/preporcess-volume-medical-imaging/issues) [![GitHub stars](https://img.shields.io/github/stars/amine0110/preporcess-volume-medical-imaging)](https://github.com/amine0110/preporcess-volume-medical-imaging/stargazers) [![GitHub license](https://img.shields.io/github/license/amine0110/preporcess-volume-medical-imaging)](https://github.com/amine0110/preporcess-volume-medical-imaging) ![YouTube Video Views](https://img.shields.io/youtube/views/83FLt4fPNGs?style=social)
 # Preprocessing 3D Volumes for Tumor Segmentation using PyTorch and Monai
 
 ## Introduction
