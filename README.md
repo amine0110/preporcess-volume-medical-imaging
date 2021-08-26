@@ -1,7 +1,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/amine0110/preporcess-volume-medical-imaging)](https://github.com/amine0110/preporcess-volume-medical-imaging/issues) [![GitHub stars](https://img.shields.io/github/stars/amine0110/preporcess-volume-medical-imaging)](https://github.com/amine0110/preporcess-volume-medical-imaging/stargazers) [![GitHub license](https://img.shields.io/github/license/amine0110/preporcess-volume-medical-imaging)](https://github.com/amine0110/preporcess-volume-medical-imaging) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/torch) ![YouTube Video Views](https://img.shields.io/youtube/views/83FLt4fPNGs?style=social)
 # Preprocessing 3D Volumes for Tumor Segmentation using PyTorch and Monai
 
-## Introduction
+## Introduction 
 Regarding the difficulties that we can encounter when using traditional image processing tools, deep learning has emerged as the primary solution in the healthcare field.
 
 Because medical images are more difficult to process than standard images (dense contrast, a wide range of variations in the human body…) Deep learning is used for classification, object detection, and especially segmentation tasks.
