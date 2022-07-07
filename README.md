@@ -30,4 +30,10 @@ orig_transforms = Compose(
 
 For more information, you can read my [blog post](https://pycad.co/preprocessing-3d-volumes-for-tumor-segmentation-using-monai-and-pytorch/) about this repo or you can watch my [YouTube video](https://youtu.be/83FLt4fPNGs).
 
+## 🆕 NEW 
+
+Full course about medical imaging segmentation is coming soon, join the waitlist here:
+
+https://pycad.co/monai-and-pytoch-for-medical-imaging/
+
 
