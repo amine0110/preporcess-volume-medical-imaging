@@ -32,8 +32,8 @@ For more information, you can read my [blog post](https://pycad.co/preprocessing
 
 ## 🆕 NEW 
 
-Full course about medical imaging segmentation is coming soon, join the waitlist here:
+Learn how to effectively manage and process DICOM files in Python with our comprehensive course, designed to equip you with the skills and knowledge you need to succeed.
 
-https://pycad.co/monai-and-pytoch-for-medical-imaging/
+https://www.learn.pycad.co/course/dicom-simplified
 
 
